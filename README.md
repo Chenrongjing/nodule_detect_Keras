@@ -1,2 +1,3 @@
-# nodule_detect_Keras
-Lung Nodule Classification
+# Nodule_detect_Keras
+Lung Nodule/Non-nodule Classification
+Malignacy Classification
